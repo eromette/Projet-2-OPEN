@@ -111,7 +111,7 @@ knitr::include_graphics("image_72.png")
 
 ### <ins> Push <ins> :  
 
-Lorsqu'un commit a été effectué, il suffit de cliquer, dans le menu principal, sur le bouton qui s'appelle *`Pull origin`*.  
+Lorsqu'un commit a été effectué, il suffit de cliquer, dans le menu principal, sur le bouton qui s'appelle *`Push origin`*.  
 Cela permettra de synchroniser le commit avec le répertoire en ligne et l'afficher dans l'historique.  
 Sur l'image, il est indiqué *`Pull origin`*, toutefois cela peut aussi être *`Push`* ou *`Fetch origin`*, le premier permettant d'envoyer, le second de vérifier des changements.  
 
