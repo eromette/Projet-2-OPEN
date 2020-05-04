@@ -20,12 +20,11 @@ output:
     fig_caption: yes
     number_sections: yes
     toc: yes
-    toc_depth: 3 '3' #format glissant de la toc
+    toc_depth: 3 '3'
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-#ajouter toute les library nécessaires
 library(bookdown)
 library(knitr)
 library(tinytex)
@@ -59,7 +58,6 @@ knitr::include_graphics("rmarkdown.png")
 
 ```{r child='Logiciel.Rmd'}
 ```
-
 
 # **Références**
 

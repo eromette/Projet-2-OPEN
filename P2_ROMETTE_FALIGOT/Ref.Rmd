@@ -3,3 +3,9 @@
 ```
 
 <https://ndpsoftware.com/git-cheatsheet.html#loc=index;>
+
+<https://education.github.com/git-cheat-sheet-education.pdf>
+
+<https://desktop.github.com/>
+
+<https://github.com/>
