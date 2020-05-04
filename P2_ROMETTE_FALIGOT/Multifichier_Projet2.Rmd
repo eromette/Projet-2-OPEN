@@ -21,18 +21,13 @@ output:
     number_sections: yes
     toc: yes
     toc_depth: 3 '3' #format glissant de la toc
-csl: iso690-author-date-fr-no-abstract.csl
-bibliography: biblio2.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 #ajouter toute les library nécessaires
-library(ade4)
-library(FactoMineR)
 library(bookdown)
 library(knitr)
-library(tibble)
 library(tinytex)
 ```
 
@@ -45,25 +40,30 @@ knitr::include_graphics("rmarkdown.png")
 ..................................................................................................................
 ..................................................................................................................
 
-# **Présentation des données **
+# **Initialisation du repository d'équipe**
 
-```{r child='G2_PresentationDonnees.Rmd'}
+```{r child='Initialisation.Rmd'}
 ```
 
-# **Une première analyse **
+# **Ajouter les membres de l'équipe**
 
-```{r child='G2_PremiereAnalyse.Rmd'}
+```{r child='Ajout.Rmd'}
 ```
 
-# **Analyse en Composante Principale**
+# **Gestion de fichiers par la console**
 
-```{r child='G2_ACP.Rmd'}
+```{r child='Invitdecom.Rmd'}
 ```
+
+# **Gestion de fichiers par GitHub Desktop**
+
+```{r child='Logiciel.Rmd'}
+```
+
 
 # **Références**
 
-```{r child='G2_Ref.Rmd'}
+```{r child='Ref.Rmd'}
 ```
-
 
 

@@ -1,3 +1,7 @@
+```{r,echo=FALSE}
+#Ajout des membres de l'équipe
+```
+
 ** Introduction **
 
 Ce document a pour but d'expliquer la création et l'utilisation d'un dépôt sur Git, [ce site](https://github.com/).

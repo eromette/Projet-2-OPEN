@@ -1,0 +1,5 @@
+```{r,echo=FALSE}
+#Références
+```
+
+<https://ndpsoftware.com/git-cheatsheet.html#loc=index;>
