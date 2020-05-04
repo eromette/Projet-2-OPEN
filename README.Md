@@ -5,4 +5,3 @@ Création d'un tutorial pour l'utilisation de GitHub en équipe :
 - ajout de personnes dessus (via les settings)
 - commit/push/pull/add/rm/cd (Eugénie)
 - logiciels adaptés : github desktop (Axel)
-
