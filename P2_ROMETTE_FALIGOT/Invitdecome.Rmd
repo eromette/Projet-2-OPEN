@@ -9,19 +9,19 @@ Pour cela on ouvre l'invite de commandes de notre ordinateur et on accéde au li
 
 Une fois dans le dossier souhaité, on peut cloner le dépôt. Pour cela on utilise :
 
-* git clone *'adresse du dépôt'*
+* **git clone** *'adresse du dépôt'*
 
 Une fois le dépôt cloné, on peut modifier les fichiers directement sur notre ordinateur.
 
 Pour mettre à jour notre travail sur notre dépôt en ligne on commence par mettre à jour notre fichier local par un pull :
 
-* git pull
+* **git pull**
 
 Puis on fait un add, un commit et un push, pour le renvoyer sur git en ligne :
 
-* git add *'nom du projet ou du fichier'*
-* git commit -m *"Commentaire"*
-* git push
+* **git add** *'nom du projet ou du fichier'*
+* **git commit -m** *"Commentaire"*
+* **git push**
 
 **--> Pensez à faire entrer après chaque ligne de commande !**
 

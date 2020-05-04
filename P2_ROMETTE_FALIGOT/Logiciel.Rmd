@@ -6,9 +6,9 @@
 
 Intéressons-nous à l'utilisation d'un logiciel permettant de simplifier l'usage de GitHub.
 En effet, la console peut sembler quelque peu... *perturbante* pour les néophytes.
-GitHub a par conséquent développé un outil simplifiant l'usage de Git : GitHub Desktop *trompettes*
+GitHub a par conséquent développé un outil simplifiant l'usage de Git : GitHub Desktop *`*tadaaaam*`*
 
-```{r pic4, echo=FALSE, out.width = '30%', fig.align = "center"}
+```{r pic0, echo=FALSE, out.width = '30%', fig.align = "center"}
 knitr::include_graphics("Github_Desktop_icon.png")
 ```
 &nbsp;
@@ -29,7 +29,7 @@ knitr::include_graphics("image_77.png")
 
 *****************************************************************
 
-##*Cloner un répertoire :*
+## *Cloner un répertoire :*
 
 Lors du clonage d'un répertoire, vous avez 3 onglets :
 - *`GitHub.com`* vous permet de sélectionner un répertoire que vous possédez déjà sur votre compte en ligne, que ce soit un répertoire à vous, un où vous êtes autorisés à éditer ou un *fork*, c'est à dire un suivi des mise à jour d'un répertoire d'une personne, sans pour autant y avoir la possiblité de l'éditer.  
