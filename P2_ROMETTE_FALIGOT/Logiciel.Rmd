@@ -118,7 +118,7 @@ Sur l'image, il est indiqué *`Pull origin`*, toutefois cela peut aussi être *`
 
 ### <ins> Pull <ins> : 
 
-Lorsque des modifications ont été apportées en ligne, il est nécessaire récupérer les dernières versions via : *`Pull origin`*.
+Lorsque des modifications ont été apportées en ligne, il est nécessaire récupérer les dernières versions via : *`Pull origin`*.  
 Il est possible qu'il y ait des conflits, en ce cas le plus simple est d'aller dans le dossier concerné (manuellement), puis de supprimer le(s) fichier(s) qui pose souci, ou du moins le déplacer sur le Bureau si on souhaite le conserver.
 
 ```{r pic10, echo=FALSE, out.width = '80%', fig.align = "center"}
