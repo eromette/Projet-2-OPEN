@@ -3,6 +3,11 @@ title: 'Utilisation de GitHub en équipe'
 author: 'E.ROMETTE & A.FALIGOT-GIRARDELLI'
 date: "04/05/20"
 output: 
+  word_document:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
   html_document:
     fig_caption: yes
     number_sections: yes
@@ -16,11 +21,6 @@ output:
     number_sections: yes
     toc: yes
     toc_depth: 3
-  word_document:
-    fig_caption: yes
-    number_sections: yes
-    toc: yes
-    toc_depth: 3 '3'
 ---
 
 ```{r setup, include=FALSE}
