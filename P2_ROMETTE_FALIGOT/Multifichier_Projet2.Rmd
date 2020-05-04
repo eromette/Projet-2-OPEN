@@ -3,6 +3,12 @@ title: 'Utilisation de GitHub en équipe'
 author: 'E.ROMETTE & A.FALIGOT-GIRARDELLI'
 date: "04/05/20"
 output: 
+  html_document:
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
   pdf_document:
     fig_caption: yes
     includes:  
@@ -10,12 +16,6 @@ output:
     number_sections: yes
     toc: yes
     toc_depth: 3
-  html_document:
-    fig_caption: yes
-    number_sections: yes
-    toc: yes
-    toc_depth: 3
-    toc_float: yes
   word_document:
     fig_caption: yes
     number_sections: yes
@@ -30,14 +30,12 @@ library(knitr)
 library(tinytex)
 ```
 
-```{r logo, echo=FALSE, out.width = '30%', fig.align = "center",fig.cap="Logo Rmarkdown"}
-knitr::include_graphics("rmarkdown.png")
+```{r logo, echo=FALSE, out.width = '30%', fig.align = "center"}
+knitr::include_graphics("github_logo.jpg")
 ```
 
 
-**Résumé** : Dans ce rapport nous analyserons les temperatures des principales villes françaises.  
-..................................................................................................................
-..................................................................................................................
+**Résumé** : Dans cette synthèse nous allons étudier la gestion de GitHub pour un travail d'équipe.
 
 # **Initialisation du repository d'équipe**
 
