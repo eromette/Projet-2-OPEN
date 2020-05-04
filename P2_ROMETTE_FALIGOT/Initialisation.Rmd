@@ -5,24 +5,28 @@
 Une fois votre compte GutHub ouvert, allez au [Menu principal](https://github.com/) du site où vous pouvez avoir une vision sur tous les Répertoires que vous avez créé ainsi que ceux que vous avez cloné. 
 &nbsp;
 
-```{r pic1, echo=FALSE, out.width = '100%', fig.align = "center"}
+```{r pic1, echo=FALSE, out.width = '80%', fig.align = "center"}
 knitr::include_graphics("espacedetravail.png")
 ```
 &nbsp;
+
+*****************************************************************
 
 Pour créer un nouveau Répertoire, cliquez sur le bouton "New" en vert.
 Cela vous amènera sur la page suivante :
 &nbsp;
 
-```{r pic2, echo=FALSE, out.width = '100%', fig.align = "center"}
+```{r pic2, echo=FALSE, out.width = '80%', fig.align = "center"}
 knitr::include_graphics("creation.png")
 ```
 &nbsp;
 
+*****************************************************************
+
 ***"Owner"*** indique le propriétaire du répertoire, le compte qui a tous les droits : l'administrateur.
 &nbsp;
 
-***"Repository name"*** correspond à l'emplacement où vous pouvez choisir le nom du répertoire. Il est conseillé de l'avoir en 1 seul mot (peut être composé de plusieurs mots mais attachés avec des caractères spéciaux comme `&``-``_`).
+***"Repository name"*** correspond à l'emplacement où vous pouvez choisir le nom du répertoire. Il est conseillé de l'avoir en 1 seul mot (peut être composé de plusieurs mots mais attachés avec des caractères spéciaux comme `&` `-` `_`).
 &nbsp;
 
 ***"Description"*** correspond à la description qui sera faite en haut de votre répertoire.
@@ -42,11 +46,14 @@ Cela est pratique lors de la création en commun de dossiers contenant des fichi
 ***"Add a license"*** permet d'ajouter une license au répertoire, c'est à dire indiquer aux personnes, qui téléchargent/utilisent le répertoire et ce qu'il contient, qu'ils doivent respecter les conditions de la License (CC BY, ...).
 &nbsp;
 
+Une fois votre répertoire créé, celui-ci est disponible dans votre onglet *Repositories* et vous pouvez le gérer à votre guise.
 
-```{r pic3, echo=FALSE, out.width = '100%', fig.align = "center"}
+```{r pic3, echo=FALSE, out.width = '80%', fig.align = "center"}
 knitr::include_graphics("repository.png")
 ```
 &nbsp;
 
-Une fois votre répertoire créé (image ci-dessus), celui-ci est disponible dans votre onglet "Repositories" et vous pouvez le gérer à votre guise.
+*****************************************************************
+
+
 

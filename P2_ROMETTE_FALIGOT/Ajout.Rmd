@@ -4,9 +4,9 @@
 
 Pour ajouter des collaborateurs, il faut aller dans notre dépôt/repository. Une fois dedans :
 
- 1. Aller dans *Settings*
- 2. Puis dans *Manage Acess*
- 3. Cliquer sur *Invite a collaborator*
+ 1. Aller dans ***Settings***
+ 2. Puis dans ***Manage Access***
+ 3. Cliquer sur ***Invite a collaborator***
  4. Entrer le nom de notre collaborateur 
  5. Lui envoyer une invitation
 
