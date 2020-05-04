@@ -2,7 +2,7 @@
 #Initialisation du repository
 ```
 
-Une fois votre compte GutHub ouvert, allez au [Menu principal](https://github.com/) du site où vous pouvez avoir une vision sur tous les Répertoires que vous avez créé ainsi que ceux que vous avez cloné. 
+Une fois votre compte GitHub ouvert, allez au [Menu principal](https://github.com/) du site où vous pouvez avoir une vision sur tous les Répertoires que vous avez créé ainsi que ceux que vous avez cloné. 
 &nbsp;
 
 ```{r pic1, echo=FALSE, out.width = '80%', fig.align = "center"}
